@@ -1,4 +1,6 @@
-jasi
+**j**a**s**i, astonishing smartphone interface
 ====
 
-JaSi, Astonishing Smartphone Interface
+Jazzy in-browser user interface for smartphones on top of *freesmartphone.org*, using trendy technologies like *Node.js*, *AngularJS* and *Semantic UI*.
+
+Just a PoC with no real purposes.
