@@ -14,4 +14,6 @@ angular.module('jasiApp', [
       .otherwise({
         redirectTo: '/'
       });
+
+    window.$('body').niceScroll({touchbehavior:true, bouncescroll:true});
   });

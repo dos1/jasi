@@ -9,7 +9,8 @@
     "angular-route": "~1.2.0",
     "angular-resource": "~1.2.0",
     "angular-sanitize": "~1.2.0",
-    "angular-semantic": "git://github.com/caitp/angular-semantic"
+    "angular-semantic": "git://github.com/caitp/angular-semantic",
+    "jquery.nicescroll": "git://github.com/inuyaksa/jquery.nicescroll"
   },
   "devDependencies": {
     "angular-mocks": "~1.2.0",
